@@ -15,7 +15,7 @@ public class Cd {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("Hola todo el mundooo, hola doctor niiiick");
+       System.out.println("Hola todo el mundooo, hola feo");
     }
     
 }
